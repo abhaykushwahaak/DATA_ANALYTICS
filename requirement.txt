@@ -1,0 +1,17 @@
+# code .  = to start the vs code 
+# python -m venv .venv  = to create a new venv environment  and wwe don't need to activate this explicitly 
+
+# But if we have created using this command 
+# conda create --name myenv python=3.10
+# conda activate myenv = activation need
+
+#  TO SELECT THE ENVIRONMENT 
+# 1. Press Ctrl + Shift + P to open the Command Palette.
+# 2. Select Python: Select Interpreter.
+# 3. Click on the option that says .venv (3.14.6) .\.venv\Scripts\python.exe Workspace (the one from your previous screenshot).
+
+#  TO INSTALL ALL THE REQUIREMENTS 
+# pip install -r requirement.txt
+
+numpy
+
