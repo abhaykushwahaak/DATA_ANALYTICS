@@ -15,4 +15,5 @@
 
 numpy
 ipykernel
+matplotlib
 
