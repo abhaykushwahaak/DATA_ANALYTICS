@@ -14,4 +14,5 @@
 # pip install -r requirement.txt
 
 numpy
+ipykernel
 
