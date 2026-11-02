@@ -16,4 +16,5 @@
 numpy
 ipykernel
 matplotlib
+pandas 
 
